@@ -168,6 +168,11 @@ Then we should modify these results according to the MaskRCNN detections, follow
 python3 pplp/experiments/run_orientnet_panoptic_training.py --pipeline_config=pplp/configs/orientation_pedestrian_panoptic.config --device='0' --data_split='train'
 ```
 
+**(Debug only)To Start OrientNet training on Panoptic dataset with black and white masks only**:
+```bash
+python3 pplp/experiments/run_orientnet_panoptic_blackwhite_training.py --pipeline_config=pplp/configs/orientation_pedestrian_panoptic_blackwhite.config --device='0' --data_split='train'
+```
+
 **To build OrientNet results for PPLPNet**:
 (This step can be skipped if you download the 'data' folder from "TODO", and placed them under path: 'PPLP/pplp')
 
