@@ -4,7 +4,7 @@ This repository contains the public release of the Python implementation of Pede
 
 We appreciate if you could cite our paper:
 
-F. Bu, T. Le, X. Du, R. Vasudevan and M. Johnson-Roberson, "Pedestrian Planar LiDAR Pose (PPLP) Network for Oriented Pedestrian Detection Based on Planar LiDAR and Monocular Images," in IEEE Robotics and Automation Letters, Accepted, 2019.
+F. Bu, T. Le, X. Du, R. Vasudevan and M. Johnson-Roberson, "Pedestrian Planar LiDAR Pose (PPLP) Network for Oriented Pedestrian Detection Based on Planar LiDAR and Monocular Images," in IEEE Robotics and Automation Letters, vol. 5, no. 2, pp. 1626-1633, April 2020.
 doi: 10.1109/LRA.2019.2962358
 
 [[`IEEEXplore (PPLP paper)`](https://ieeexplore.ieee.org/document/8943147)]
